@@ -1,0 +1,22 @@
+{
+  "name": "sinajs-loader",
+  "version": "1.0.0",
+  "description": "a webpack loader ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liulyliu/sinajs-loader.git"
+  },
+  "keywords": [
+    "sinajs"
+  ],
+  "author": "myluluy@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liulyliu/sinajs-loader/issues"
+  },
+  "homepage": "https://github.com/liulyliu/sinajs-loader#readme"
+}
