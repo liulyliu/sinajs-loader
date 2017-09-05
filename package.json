@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/liulyliu/sinajs-loader.git"
+    "url": "git+https://github.com/myluluy/sinajs-loader.git"
   },
   "keywords": [
     "sinajs"
@@ -16,7 +16,7 @@
   "author": "myluluy@gmail.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/liulyliu/sinajs-loader/issues"
+    "url": "https://github.com/myluluy/sinajs-loader/issues"
   },
-  "homepage": "https://github.com/liulyliu/sinajs-loader#readme"
+  "homepage": "https://github.com/myluluy/sinajs-loader#readme"
 }
